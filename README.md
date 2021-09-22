@@ -36,3 +36,73 @@ Hobbies: Gardening, Gaming
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
+
+<br/>
+
+<div align="center">
+    <table align="left">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/django.jpg" width="65px"/>
+                <br /> Django
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/open cv.png" width="65px"/>
+                <br /> Computer Vision
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/TensorFlow.png" width="65px"/>
+                <br /> TensorFlow
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/PyTorch.png" width="65px"/>
+                <br /> PyTorch
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/aws.png" width="65px"/>
+                <br /> AWS
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/Mongo.png" width="65px"/>
+                <br /> MongoDB
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/DialogFlow.png" width="65px"/>
+                <br /> DialogFlow
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/RASA.png" width="65px"/>
+                <br /> RASA
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/analytics.png" width="65px"/>
+                <br /> G Analytics
+            </td>
+        </tr>
+    </table>
+    <img src="svg/artificialintelligence.svg" height="225px"/>
+</div>
+
+<br>
+
+<img align="left" src="svg/webdevelopment.svg" height="277px"/>
+
+```csharp
+    System Information
+    ------------------------------------------
+    OS: Windows 10
+    Kernel: 21H1, Build ver. 19043.1110
+    WM: Windows Explorer
+    Shell: powershell
+    Terminal: alacritty 0.7.2
+    Resolution: 1920x1080
+    Theme: Dark
+    CPU: Intel Core i5 11400 @ 2.6GHz
+    GPU: Nvidia GeForce GTX 1050
+    Memory:  3072MB / 8192MB 3200MHz
+
+```
