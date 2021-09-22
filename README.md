@@ -23,6 +23,10 @@ neoaman@github
 OS: Ubuntu, Windows
 Pronouns: He/Him
 Location: Bhubaneswar, India
+Skill: Machinelearning, Deeplearning
+Primary: Computer-vision, Natural Language Processing
+         Image-processing, Optical Character Recognition
+         Chat-bot, Google Analytics
 Frameworks: Django, React
 Languages: Python, JS, HTML, CSS
 Learning: MLOps, GANs
