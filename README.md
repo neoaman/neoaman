@@ -84,12 +84,12 @@ Hobbies: Gardening, Gaming
             </td>
         </tr>
     </table>
-    <img src="svg/artificialintelligence.svg" height="225px"/>
+<!--     <img src="svg/artificialintelligence.svg" height="225px"/> -->
 </div>
 
 <br>
 
-<img align="left" src="svg/webdevelopment.svg" height="277px"/>
+<!-- <img align="left" src="svg/webdevelopment.svg" height="277px"/> -->
 
 ```csharp
     System Information
