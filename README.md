@@ -94,15 +94,11 @@ Hobbies: Gardening, Gaming
 ```csharp
     System Information
     ------------------------------------------
-    OS: Windows 10
-    Kernel: 21H1, Build ver. 19043.1110
-    WM: Windows Explorer
-    Shell: powershell
-    Terminal: alacritty 0.7.2
+    OS: Windows 11
+    Version: 10.0.22000.176
+    Shell: cmd
     Resolution: 1920x1080
     Theme: Dark
-    CPU: Intel Core i5 11400 @ 2.6GHz
-    GPU: Nvidia GeForce GTX 1050
-    Memory:  3072MB / 8192MB 3200MHz
-
+    CPU: Intel Core i5 8265U @ 1.60GHz
+    GPU: Nvidia MX 130
 ```
