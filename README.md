@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 > neoaman
 ```
 
-<img align="left" src="/DP.jpg" alt="Aman Patel" width="320" /> 
+<img align="right" src="/DP.jpg" alt="Aman Patel" width="320" /> 
 
 ```csharp
 neoaman@github
