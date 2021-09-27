@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 neoaman@github
 -------------------------
 OS: Ubuntu, Windows
+Name: `Aman Kuamr patel`
 Pronouns: He/Him
 Location: Bhubaneswar, India
 Skill: Machinelearning, Deeplearning
